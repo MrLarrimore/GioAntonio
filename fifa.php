@@ -1,9 +1,5 @@
-<!DOCTYPE html> 
-<!--
-To change this license header, choose License Headers in Project Properties.
-To change this template file, choose Tools | Templates
-and open the template in the editor.
--->                                                                                                                 
+
+
 <html>
     <head>
         <title>NATIONAL GAMING LEAGUE  </title>
@@ -13,7 +9,7 @@ and open the template in the editor.
         <link type="text/css" rel="stylesheet" href="css/bootstrap.css"> 
         <link type="text/css" rel="stylesheet" href="css/custom-style.css">
         <nav class="navbar navbar-inverse" role="navigation">
-               <a class="navbar-inverse" href="fifa.php">fifa</a>
+               <a class="navbar-inverse" href="index.php">home</a>
                <a class="navbar-inverse" href="cod.php">COD</a>
                <a class="navbar-inverse" href="csgo.php">CSGO</a>
         </nav>
@@ -29,8 +25,8 @@ and open the template in the editor.
     </head>
     <body> 
         <div class="jumbotron">
-            <h1>WELCOME to the National Gaming League  </h1>
-        <p>Our GOAL is to bring competitive gamers from all over the globe and test their skills with eachother. 
+            <h1>looking to play someone in fifa? </h1>
+        <p>we give you the chance to play against people all around . Test your skill!
 
             </p>
             <p><a class="btn btn-primary btn-lg" <a href=""></a> </a></p>
